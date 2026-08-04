@@ -1,5 +1,7 @@
 # Study melt ice shelf lake
 
+[![DOI](https://zenodo.org/badge/1322980906.svg)](https://doi.org/10.5281/zenodo.21792650)
+
 This repository contains the notebooks of the analyses done in Fiol et al. "Ice shelf basal melting in giant proglacial lakes".
 
 ----
